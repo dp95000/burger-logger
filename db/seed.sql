@@ -1,0 +1,1 @@
+CREATE database burger_db;
