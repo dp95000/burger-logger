@@ -5,7 +5,7 @@ This application allows a user to create various kinds of hamburgers (different 
 
 
 # Technologies Used
-This application uses haldebars for rending the frontend, Node JS on the backend for running the server environment, and MySQL for storing the burgers that are created.  
+This application uses haldebars for rendering the frontend, Node JS on the backend for running the server environment, and MySQL for storing the burgers that are created.  
 
 
 # How to Use
@@ -24,3 +24,5 @@ This application requires the following dependencies to be installed prior to us
 
 To install these dependencies, enter the following command:
 npm install
+
+![Application Screenshot](public/assets/img/screenshot.jpg)
